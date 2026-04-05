@@ -178,4 +178,5 @@ cython_debug/
 *.pkl
 poetry.lock
 
-Ejercicios/Datasets/GEDEvent_v25_1.csv
+Ejercicios/Datasets/GEDEvent_v25_1.csvEjercicios/Ejercicios Grupales/GEDEvent_v25_1.csv
+Ejercicios/Ejercicios Grupales/GEDEvent_v25_1.csv
